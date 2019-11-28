@@ -2,7 +2,7 @@
 public class Dummy {
 
 	public static void main(String[] args) {
-		//Test case dummy hihasdiuhhadsdauhasdasdasd
+		//Test case dummy 
 	}
 
 }
